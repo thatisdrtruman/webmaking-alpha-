@@ -1,0 +1,19 @@
+{
+  "__comment1__": "FLASK ENV VARIABLES",
+  "secret_key": "5d59e96c9746898d330a2feeaf026e44b5c3f48cedb3b2ff",
+  "db_url": "mysql+pymysql://c2086692:02083138MAgo@csmysql.cs.cf.ac.uk:3306/c2086692_GP",
+
+
+  "__comment2__": "FLICKR API VARIABLES",
+  "api_key": "979047d95428e1c08a538371f2f26583",
+  "api_secret": "1dbcae6c27a94de5",
+  "oauth_token": "72157718721874842-918f2a0c6ccb9af2",
+  "oauth_token_secret": "857540502ade1b20",
+
+
+  "__comment3__": "TWITTER API VARIABLES",
+  "CONSUMER_KEY": "HLDVLYfbc63GwUQtamQvSYQKB",
+  "CONSUMER_SECRET": "zTxpqdiKDomGOUu5489qg4A80aZJz5witJHWDcr53HzwN2p9km",
+  "ACCESS_TOKEN": "1308845166476898309-zbehQCARjpaAwSrdC845s7ggFewGMq",
+  "ACCESS_TOKEN_SECRET": "ez4jP2CVGjuNgfpcgcnOfkitIAGYcuzn8lHJLEGIMiwex"
+}
